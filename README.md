@@ -17,8 +17,6 @@
 * Boost data structure replace with standard C++ STL library.
 * There is an option that allows you to easily modify the code to enable/disable the magical blank state!! for more information about this feature read an interesting article by [Théodore Bluche](http://www.tbluche.com/) referenced in the Acknowledgments.
 
-The intriguing blank label in CTC (by Théodore Bluche) : http://www.tbluche.com/ctc_and_blank.html
-
 ### Dependencies
 
 * Standard C++ 11+
