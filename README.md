@@ -28,4 +28,4 @@ The intriguing blank label in CTC (by Théodore Bluche) : http://www.tbluche.com
 Inspiration, references, etc.
 * [The intriguing blank label in CTC](http://www.tbluche.com/ctc_and_blank.html) 
 * [Original library](https://sourceforge.net/projects/rnnl/)
-* [Main CTC paper](ftp://ftp.idsia.ch/pub/juergen/icml2006.pdf)
+* [CTC paper - ICML 2006](https://www.cs.toronto.edu/~graves/icml_2006.pdf)
