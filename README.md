@@ -15,7 +15,7 @@
 ### application
 
 * This library allows you to add CTC layer into your project without getting involved into handling inconsistency between dependency of your project.
-  as an example combining CTC layer with the graphical models such as Conditional Random Fields (CRFs) family for utlizing them on *Temporal/Unsegmented/Weakly Sequence Classification/Lableling* applications. For instance refer to my paper [Training LDCRF model on unsegmented sequences using Connectionist Temporal Classification.](https://arxiv.org/abs/1606.08051)
+  as an example combining CTC layer with the graphical models such as Conditional Random Fields (CRFs) family for utlizing them on *Temporal/Unsegmented/Weakly Sequence Classification/Lablelling* applications. For instance refer to my paper [Training LDCRF model on unsegmented sequences using Connectionist Temporal Classification.](https://arxiv.org/abs/1606.08051)
   This repository could easily be integrated into the legendary but orphan [HCRF library](https://sourceforge.net/projects/hcrf/files/hcrf-win/) project. :grin:
 
 ## Changes
